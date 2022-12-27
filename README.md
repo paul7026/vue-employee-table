@@ -2,9 +2,7 @@
 
 ## Project link
 
-```
 https://vue-employee-table.vercel.app/
-```
 
 ## Project setup
 
